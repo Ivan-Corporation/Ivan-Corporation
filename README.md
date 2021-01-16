@@ -1,4 +1,5 @@
 ## Giraffes are heartless creatures [:giraffe:]
+#### NaN !== NaN (true...) ####
 ---
 ### My projects:
 
