@@ -2,7 +2,7 @@
 ---
 ### My projects:
 
-![Erde](https://pbs.twimg.com/media/EXLKoxzXkAAOS0W.jpg "Картинка" width="500px")
+![Erde](https://pbs.twimg.com/media/EXLKoxzXkAAOS0W.jpg)
 ---
 
 <img align="left" width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> Codewars...
