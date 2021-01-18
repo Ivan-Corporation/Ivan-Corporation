@@ -3,7 +3,7 @@
 ---
 ### My lovely picture:
 
-![Erde](https://pbs.twimg.com/media/EXLKoxzXkAAOS0W.jpg align='center')
+![Erde](https://pbs.twimg.com/media/EXLKoxzXkAAOS0W.jpg)
 ---
 
 <img align="left" width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> Codewars...
