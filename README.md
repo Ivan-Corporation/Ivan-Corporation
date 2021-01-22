@@ -8,7 +8,7 @@
 
 
 ### Mobile develop
-<p float="left">
+<p align="center" float="left">
   <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511056.png" width="200" hspace="10"/>
   <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511104.png" width="200" hspace="10"/> 
   <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511351.png" width="200" hspace="10"/>
