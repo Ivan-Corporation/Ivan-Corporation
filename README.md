@@ -2,15 +2,16 @@
 #### NaN !== NaN (true...) ####
 ---
 ### My lovely picture:
-
+<p align="center">
 ![Erde](https://pbs.twimg.com/media/EXLKoxzXkAAOS0W.jpg)
+  </p>
 ---
 
 ### Mobile develop
-<p float="center">
-  <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511056.png" width="300" />
-  <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511104.png" width="300" /> 
-  <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511351.png" width="300" />
+<p float="left">
+  <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511056.png" width="300" hspace="20"/>
+  <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511104.png" width="300" hspace="20"/> 
+  <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/Screenshot_1584511351.png" width="300" hspace="20"/>
 </p>
 
 <img align="left" width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> Codewars...
