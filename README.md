@@ -16,4 +16,4 @@
 
 
 
-<img align="left" width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> Codewars...
+<img align="left" width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> 
