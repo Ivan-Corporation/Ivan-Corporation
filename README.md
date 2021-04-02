@@ -3,7 +3,7 @@
 ---
 ### My lovely picture:
 <p align="center">
-   <img src="https://pbs.twimg.com/media/EXLKoxzXkAAOS0W.jpg" width="500"/>
+   <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/15953455368650.jpg" width="500"/>
   </p>
 
 
