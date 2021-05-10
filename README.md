@@ -1,7 +1,8 @@
 ## Giraffes are heartless creatures [:giraffe:]
 
-[![Ivan-Corporation GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&show_icons=true&theme=dark)](https://github.com/Ivan-Corporation/github-readme-stats)
-
+<a href="https://github.com/Ivan-Corporation/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&show_icons=true&theme=dark" />
+</a>
 
 
 ---
