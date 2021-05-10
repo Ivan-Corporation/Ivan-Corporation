@@ -1,5 +1,9 @@
 ## Giraffes are heartless creatures [:giraffe:]
-#### NaN !== NaN (true...) ####
+
+[![Ivan-Corporation GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&show_icons=true&theme=radical)](https://github.com/Ivan-Corporation/github-readme-stats)
+
+
+
 ---
 ### My lovely picture:
 <p align="center">
