@@ -2,7 +2,8 @@
 
 [![Ivan-Corporation GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&show_icons=true&theme=dark)](https://github.com/Ivan-Corporation/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Corporation&layout=compact)](https://github.com/Ivan-Corporation/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Corporation)](https://github.com/Ivan-Corporation&show_icons=true&theme=dark/github-readme-stats)
+
 
 
 ---
