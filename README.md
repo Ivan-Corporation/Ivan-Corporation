@@ -1,4 +1,4 @@
-<h3 align="center">Koma Corporation</h3>
+<h2 align="center">Koma Corporation</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ivan-Corporation/Ivan-Corporation/master/img/profile.gif"/>
@@ -21,10 +21,6 @@
   &nbsp;
 </a>
 
-<a target="_blank" href= >
-  <img height="25" width="25" src="" fill="#fff"/>
-  &nbsp;
-</a>
    
 </p>
 
@@ -37,13 +33,11 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg alt=sass width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg alt=mongodb width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=express width="30" height="30"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg alt=linux width="30" height="30"/>
 </p>
 
 <br><br>
@@ -62,7 +56,7 @@
 <br>
 
 <p align="center">
-  <img width="500" alt="Ivan-Corporation's github stats" src="https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
+  <img width="500" alt="Ivan-Corporation's github stats" src="https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&&show_icons=true&title_color=fafafa&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
   <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Corporation&layout=compact&theme=tokyonight&langs_count=10">
  </p>
 
