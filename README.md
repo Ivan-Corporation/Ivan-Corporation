@@ -47,9 +47,7 @@
 <img width="500" src="https://metrics.lecoq.io/Ivan-Corporation" alt="Github Metrics">
   
   <br>
-  <br>
-
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation" alt="Github Streak Stats">
+  
 
 </p>
 
@@ -64,9 +62,11 @@
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=Ivan-Corporation" alt="Ivan-Corporation"/> </p>  </p>
 <br>
 
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation" alt="Github Streak Stats">
+
 <br>
 <p align="center">
-    <img align="left" width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> 
+    <img width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> 
 </p>
 
 
