@@ -44,7 +44,7 @@
 
 <p align="center">
 
-<img width="500" src="[![trophy](https://github-profile-trophy.vercel.app/Ivan-Corporation=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophy">
+[![trophy](https://github-profile-trophy.vercel.app/Ivan-Corporation=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br>
   
