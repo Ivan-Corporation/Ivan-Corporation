@@ -42,16 +42,12 @@
 
 <br><br>
 
-<p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/Ivan-Corporation=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  <br>
-  
 
-</p>
+<img width="500" alt="Ivan-Corporation's github stats" src="https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&&show_icons=true&title_color=fafafa&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Corporation)](https://github.com/Ivan-Corporation/github-profile-trophy)
+<br><br>
 
 <p align="center">
   <img width="500" alt="Ivan-Corporation's github stats" src="https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&&show_icons=true&title_color=fafafa&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
