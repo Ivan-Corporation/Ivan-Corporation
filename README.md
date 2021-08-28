@@ -43,7 +43,7 @@
 <br><br>
 
 <p align="center">
- <img width="500" alt="Ivan-Corporation's github stats" src=https://github-profile-trophy.vercel.app/?username=Ivan-Corporation&theme=onedark)](https://github.com/Ivan-Corporation/github-profile-trophy) />
+ <img width="500" alt="Ivan-Corporation's github stats" src=https://github-profile-trophy.vercel.app/?username=Ivan-Corporation&theme=juicyfresh)](https://github.com/Ivan-Corporation/github-profile-trophy) />
 <br><br>
  </p>
   
