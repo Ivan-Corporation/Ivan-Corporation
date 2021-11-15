@@ -2,8 +2,11 @@
 
 <p align="center">
   <img src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/logo%20koma.png"/>
-  http://www.komaroad.ru/
 </p>
+<p align="center">
+  <a target="_blank" href=http://www.komaroad.ru/>
+</p>
+
 
 <p align="center">
  <a target="_blank" href=https://github.com/Ivan-Corporation>
