@@ -8,22 +8,22 @@
 <p align="center">
  <a target="_blank" href=https://github.com/Ivan-Corporation>
   <img src=https://img.shields.io/github/followers/Ivan-Corporation?label=follow%20me&style=social />
-
+ &nbsp;
 </a>
 
 
 <a target="_blank" href=https://twitter.com/KomaHuman>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
+  <img height="35" width="35" src="https://abs.twimg.com/favicons/twitter.ico" />
   &nbsp;
 </a>
 
 <a target="_blank" href=mailto:hammer.99.ivan@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+  <img height="35" width="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
   &nbsp;
 </a>
 
   <a target="_blank" href=https://codesandbox.io/u/Ivan-Corporation>
-  <img height="25" width="25" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
+  <img height="35" width="35" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
   &nbsp;
 </a> 
 </p>
