@@ -8,7 +8,7 @@
 <p align="center">
  <a target="_blank" href=https://github.com/Ivan-Corporation>
   <img src=https://img.shields.io/github/followers/Ivan-Corporation?label=follow%20me&style=social />
-  &nbsp;
+
 </a>
 
 
