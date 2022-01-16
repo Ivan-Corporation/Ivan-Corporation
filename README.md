@@ -12,19 +12,19 @@
 <br/>
 
 <a target="_blank" href=https://twitter.com/KomaHuman>
-  <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
-
-</a>
-
-<a target="_blank" href=mailto:hammer.99.ivan@gmail.com>
-  <img height="25" width="25" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+  <img height="35" width="35" src="https://abs.twimg.com/favicons/twitter.ico" />
 
 </a>
 
   <a target="_blank" href=https://codesandbox.io/u/Ivan-Corporation>
-  <img height="25" width="25" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
+  <img height="35" width="35" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
  
 </a> 
+<a target="_blank" href=mailto:hammer.99.ivan@gmail.com>
+  <img height="35" width="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+
+</a>
+
 </p>
 
 <hr>
