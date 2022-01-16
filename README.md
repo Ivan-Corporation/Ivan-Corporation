@@ -6,13 +6,13 @@
 
 
 <p align="center">
- <a target="_blank" href=https://github.com/Ivan-Corporation>
+ <a style="text-decoration: none;" target="_blank" href=https://github.com/Ivan-Corporation>
   <img src=https://img.shields.io/github/followers/Ivan-Corporation?label=follow%20me&style=social />
 
 </a>
 
 
-<a target="_blank" href=https://twitter.com/KomaHuman>
+<a style="text-decoration: none;" target="_blank" href=https://twitter.com/KomaHuman>
   <img height="25" width="25" src="https://abs.twimg.com/favicons/twitter.ico" />
 
 </a>
