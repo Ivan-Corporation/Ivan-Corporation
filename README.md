@@ -43,10 +43,10 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
- <img width="500" alt="Ivan-Corporation's github stats" src=https://github-profile-trophy.vercel.app/?username=Ivan-Corporation&theme=juicyfresh)](https://github.com/Ivan-Corporation/github-profile-trophy) />
+ <img  alt="Ivan-Corporation's github stats" src=https://github-profile-trophy.vercel.app/?username=Ivan-Corporation&theme=darkhub />
 <br><br>
  </p>
   
