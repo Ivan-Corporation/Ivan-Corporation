@@ -60,7 +60,7 @@
  </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Ivan-Corporation" alt="Ivan-Corporation"/><br/>
-  <a href="https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCWj8NJUnyji2xHHThU1TTsw?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="Youtube"></a>
+  <a href="https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCWj8NJUnyji2xHHThU1TTsw?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="Youtube"></a>
 
 
 
