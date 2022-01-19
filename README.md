@@ -1,7 +1,7 @@
 <h2 align="center">Koma Corporation</h2>
 
 <p align="center">
-  <img height="400" width="400" src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/logo%20koma.png"/>
+  <img height="350" width="350" src="https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/logo%20koma.png"/>
 </p>
 
 
