@@ -11,8 +11,8 @@
 </a>
 <br/>
 
-<a href=https://twitter.com/KomaHuman>
-  <img height="35" width="35" src="https://abs.twimg.com/favicons/twitter.ico" />
+<a href=https://steamcommunity.com/id/KomaCorp>
+  <img height="35" width="35" src="./steam3.png" />
 ⇱
 </a>
 
@@ -29,15 +29,16 @@
   <img height="35" width="35" src="./youtube.png" />
 ⇱
 </a>
+  <a href=https://twitter.com/KomaHuman>
+  <img height="35" width="35" src="https://abs.twimg.com/favicons/twitter.ico" />
+⇱
+</a>
 
   <a href=https://www.t.me/KomarIvan>
   <img height="35" width="35" src="./telegram.png" />
 ⇱
 </a> 
-<a href=https://steamcommunity.com/id/KomaCorp>
-  <img height="35" width="35" src="./steam.png" />
-⇱
-</a>
+
 </p>
 
 <hr>
