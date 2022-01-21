@@ -24,7 +24,20 @@
   <img height="35" width="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
 ⇱
 </a>
+<br/>
+  <a href=https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw>
+  <img height="35" width="35" src="./youtube.png" />
+⇱
+</a>
 
+  <a href=https://www.t.me/KomarIvan>
+  <img height="35" width="35" src="./telegram.png" />
+⇱
+</a> 
+<a href=https://steamcommunity.com/id/KomaCorp>
+  <img height="35" width="35" src="./steam.png" />
+⇱
+</a>
 </p>
 
 <hr>
