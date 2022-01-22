@@ -68,7 +68,7 @@
 <img src='./icons/gimp.svg' alt=react width="40" height="40"/>
 <img src='./icons/powershell.svg' alt=react width="40" height="40"/>
 <img src='./icons/sass.svg' alt=react width="40" height="40"/>
-  <img src='./icons/framer.png' alt=react width="40" height="40"/>
+  <img src='./icons/framer.png' alt=react width="37" height="37"/>
 <img src='./icons/vsc.svg' alt=react width="40" height="40"/>
 <img src='./icons/webpack.svg' alt=react width="40" height="40"/>
 <img src='./icons/i18.svg' alt=react width="40" height="40"/>
