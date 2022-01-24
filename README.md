@@ -17,11 +17,11 @@
 </a>
 
   <a href=https://codesandbox.io/u/Ivan-Corporation>
-  <img height="35" width="35" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
+  <img height="34" width="35" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
 ⇱
 </a> 
 <a href=mailto:hammer.99.ivan@gmail.com>
-  <img height="35" width="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />
+  <img height="29" width="35" src="./gmail1.png" />
 ⇱
 </a>
 <br/>
@@ -30,7 +30,7 @@
 ⇱
 </a>
   <a href=https://twitter.com/KomaHuman>
-  <img height="35" width="35" src="https://abs.twimg.com/favicons/twitter.ico" />
+  <img height="35" width="35" src="./twitter1.png" />
 ⇱
 </a>
 
