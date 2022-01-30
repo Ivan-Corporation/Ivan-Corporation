@@ -73,7 +73,7 @@
 <img src='./icons/webpack.svg' alt=react width="40" height="40"/>
 <img src='./icons/i18.svg' alt=react width="40" height="40"/>
 <img src='./icons/firebase.svg' alt=react width="40" height="40"/>
-
+<img src='./icons/sql.png' alt=react width="40" height="40"/>
 </p>
 
 <br>
