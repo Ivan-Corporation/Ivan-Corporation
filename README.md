@@ -74,6 +74,14 @@
 <img src='./icons/i18.svg' alt=react width="40" height="40"/>
 <img src='./icons/firebase.svg' alt=react width="40" height="40"/>
 <img src='./icons/sql.png' alt=react width="40" height="40"/>
+
+<br>
+__________
+<br><br>
+<img src='./icons/wordpress.png' alt=react width="40" height="40"/>
+<img src='./icons/tilda.jpg' alt=react width="40" height="40"/>
+  <img src='./icons/contentful.png' alt=react width="37" height="40"/>
+
 </p>
 
 <br>
