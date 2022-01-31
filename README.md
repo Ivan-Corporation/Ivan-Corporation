@@ -74,6 +74,7 @@
 <img src='./icons/i18.svg' alt=react width="40" height="40"/>
 <img src='./icons/firebase.svg' alt=react width="40" height="40"/>
 <img src='./icons/sql.png' alt=react width="40" height="40"/>
+<img src='./icons/three.png' alt=react width="40" height="40"/>
 
 <br>
 __________
