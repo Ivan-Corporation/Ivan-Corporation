@@ -72,18 +72,21 @@ ________
 <br><br>
 <img src='./icons/mui.svg' alt=react width="40" height="40"/>
 <img src='./icons/styled_components.png' alt=react width="40" height="40"/>
+<img src='./icons/sass.svg' alt=react width="40" height="40"/>
+<img src='./icons/framer.png' alt=react width="37" height="37"/>
+<img src='./icons/i18.svg' alt=react width="40" height="40"/>
+<img src='./icons/three.png' alt=react width="40" height="40"/>
+  <br>
+________
+<br><br>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="40" height="40"/>
 <img src='./icons/Blender_23505.png' alt=blender width="40" height="40"/>
 <img src='./icons/figma.svg' alt=react width="40" height="40"/>
 <img src='./icons/gimp.svg' alt=react width="40" height="40"/>
 <img src='./icons/powershell.svg' alt=react width="40" height="40"/>
-<img src='./icons/sass.svg' alt=react width="40" height="40"/>
-<img src='./icons/framer.png' alt=react width="37" height="37"/>
 <img src='./icons/vsc.svg' alt=react width="40" height="40"/>
 <img src='./icons/webpack.svg' alt=react width="40" height="40"/>
-<img src='./icons/i18.svg' alt=react width="40" height="40"/>
 
-<img src='./icons/three.png' alt=react width="40" height="40"/>
 
 <br>
 ________
