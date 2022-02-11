@@ -76,6 +76,10 @@ ________
 <img src='./icons/framer.png' alt=react width="37" height="37"/>
 <img src='./icons/i18.svg' alt=react width="40" height="40"/>
 <img src='./icons/three.png' alt=react width="40" height="40"/>
+<img src='./icons/native.png' alt=react width="40" height="40"/>
+<img src='./icons/expo.png' alt=react width="40" height="40"/>
+<img src='./icons/bootstrap.png' alt=react width="40" height="40"/>
+
   <br>
 ________
 <br><br>
@@ -86,6 +90,8 @@ ________
 <img src='./icons/powershell.svg' alt=react width="40" height="40"/>
 <img src='./icons/vsc.svg' alt=react width="40" height="40"/>
 <img src='./icons/webpack.svg' alt=react width="40" height="40"/>
+<img src='./icons/android.png' alt=react width="40" height="40"/>
+<img src='./icons/pycharm.png' alt=react width="40" height="40"/>
 
 
 <br>
