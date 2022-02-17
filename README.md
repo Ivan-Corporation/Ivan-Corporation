@@ -72,6 +72,7 @@ ________
 ________
 <br><br>
 <img src='./icons/mui.svg' alt=react width="40" height="40"/>
+<img src='./icons/chakra.png' alt=react width="40" height="40"/>
 <img src='./icons/styled_components.png' alt=react width="40" height="40"/>
 <img src='./icons/sass.svg' alt=react width="40" height="40"/>
 <img src='./icons/framer.png' alt=react width="37" height="37"/>
