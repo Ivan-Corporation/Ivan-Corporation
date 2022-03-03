@@ -80,6 +80,7 @@ ________
 <img src='./icons/three.png' alt=react width="40" height="40"/>
 <img src='./icons/native.png' alt=react width="40" height="40"/>
 <img src='./icons/expo.png' alt=react width="40" height="40"/>
+  <img src='./icons/bulma.png' alt=react width="40" height="40"/>
 <img src='./icons/bootstrap.png' alt=react width="40" height="40"/>
 
   <br>
