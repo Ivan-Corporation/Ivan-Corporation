@@ -112,18 +112,22 @@ ________
  <img  alt="Ivan-Corporation's github stats" src=https://github-profile-trophy.vercel.app/?username=Ivan-Corporation&theme=darkhub />
 <br><br>
  </p>
-  
-  
+
 <p align="center">
   <img width="500" alt="Ivan-Corporation's github stats" src="https://github-readme-stats.vercel.app/api?username=Ivan-Corporation&&show_icons=true&title_color=fafafa&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ><br><br>
   <img width="500" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Corporation&layout=compact&theme=tokyonight&langs_count=10">
   <br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
+
   <br>
    <img width="300px" alt="GreatPicture!" src="https://www.codewars.com/users/Ivan-Corporation/badges/large"/> 
  </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Ivan-Corporation" alt="Ivan-Corporation"/><br/>
   <a href="https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCWj8NJUnyji2xHHThU1TTsw?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="Youtube"></a>
+  
+
+
 
 
 
