@@ -13,7 +13,7 @@
 
 
   <a href=https://codesandbox.io/u/Ivan-Corporation>
-  <img height="34" width="35" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
+  <img height="35" width="36" src="https://www.shareicon.net/data/2016/11/03/849433_codepen_512x512.png" />
 ⇱
 </a> 
 <a href=mailto:hammer.99.ivan@gmail.com>
