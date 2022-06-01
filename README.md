@@ -20,6 +20,10 @@
   <img height="29" width="35" src="./gmail1.png" />
 ⇱
 </a>
+  <a href=https://www.linkedin.com/in/ivan-komar-313960237/>
+  <img height="32" width="33" src="./linkedin.png" />
+⇱
+</a>
 <br/>
   <a href=https://www.youtube.com/channel/UCWj8NJUnyji2xHHThU1TTsw>
   <img height="35" width="35" src="./youtube.png" />
