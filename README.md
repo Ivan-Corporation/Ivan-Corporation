@@ -51,7 +51,6 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg alt=express width="40" height="40"/>
 <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="40" height="40"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg alt=nodejs width="40" height="40"/>
 <img src=https://github.com/Ivan-Corporation/Ivan-Corporation/blob/main/icons/rust.png alt=nodejs width="40" height="40"/>
  
  <br>
