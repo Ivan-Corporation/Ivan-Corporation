@@ -119,6 +119,8 @@ ________
 ![](https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Ivan-Corporation/advanced-metrics/master/generated/languages.svg#gh-light-mode-only)
   
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
   </div>
 
 <br/>
