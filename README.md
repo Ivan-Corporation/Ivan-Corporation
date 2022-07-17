@@ -1,4 +1,4 @@
-<h2 align="center">Koma Corporation</h2>
+<h1 align="center">Koma Human</h1>
 
 <p align="center">
   <img height="300" width="300" src="./profile.png"/>
