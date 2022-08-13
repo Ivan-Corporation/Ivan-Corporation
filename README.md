@@ -98,10 +98,11 @@ ________
 
 <br>
 ________
-<br><br>
+<!-- CMS systems -->
+<!-- <br><br>
 <img src='./icons/wordpress.png' alt=react width="40" height="40"/>
 <img src='./icons/tilda.jpg' alt=react width="40" height="40"/>
-  <img src='./icons/contentful.png' alt=react width="37" height="40"/>
+  <img src='./icons/contentful.png' alt=react width="37" height="40"/> -->
 
 </p>
 
