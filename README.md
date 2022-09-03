@@ -58,6 +58,36 @@ ________
 
 </p>
 
+
+
+
+<p align="center">
+
+
+<hr>
+<h3 align="center">What i'm tried:</h3>
+
+
+
+  <a href=https://www.linkedin.com/in/ivan-komar-313960237>
+  <img src="https://skillicons.dev/icons?i=rust" />
+⇱
+</a>
+  <a href=https://stackoverflow.com/users/14512234/komarcorporation >
+  <img src="https://skillicons.dev/icons?i=java" />
+⇱
+</a>
+  <a href=https://gitlab.com/Ivan-Corporation>
+<img src="https://skillicons.dev/icons?i=gitlab" />
+⇱
+</a> 
+  <a href=https://twitter.com/CorporationKoma>
+<img src="https://skillicons.dev/icons?i=twitter" />
+⇱
+</a> 
+</p>
+
+
 <br>
 
 
