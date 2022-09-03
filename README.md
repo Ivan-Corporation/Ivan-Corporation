@@ -30,7 +30,7 @@
 </p>
 
 <hr>
-<h3 align="center">What i'm working or worked with:</h3>
+<h3 align="center">Current techstack:</h3>
 
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,rust,arduino" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
   </a>
 
  
@@ -78,11 +78,11 @@ ________
 ⇱
 </a>
   <a href=https://gitlab.com/Ivan-Corporation>
-<img src="https://skillicons.dev/icons?i=gitlab" />
+<img src="https://skillicons.dev/icons?i=py" />
 ⇱
 </a> 
   <a href=https://twitter.com/CorporationKoma>
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=arduino" />
 ⇱
 </a> 
 </p>
