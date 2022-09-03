@@ -61,13 +61,13 @@ ________
 
 
 
-<p align="center">
+
 
 
 <hr>
 <h3 align="center">What i'm tried:</h3>
 
-
+<p align="center">
 
   <a href=https://www.linkedin.com/in/ivan-komar-313960237>
   <img src="https://skillicons.dev/icons?i=rust" />
