@@ -65,7 +65,7 @@ ________
 
 
 <hr>
-<h3 align="center">What i'm tried:</h3>
+<h3 align="center">Other languages with links on projects:</h3>
 
 <p align="center">
 
