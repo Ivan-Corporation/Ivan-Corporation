@@ -11,7 +11,7 @@
 
 
 
-  <a href=https://www.linkedin.com/in/ivan-komar-313960237>
+  <a href=https://www.linkedin.com/in/ivan-komarchev-313960237>
   <img src="https://skillicons.dev/icons?i=linkedin" />
 ⇱
 </a>
