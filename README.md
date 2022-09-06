@@ -46,15 +46,10 @@
 ________
 <br><br>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
   </a>
   <br>
-________
-<br><br>
- <a href="">
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-  </a>
-<br>
+
 
 </p>
 
