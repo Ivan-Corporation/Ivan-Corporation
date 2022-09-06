@@ -64,15 +64,15 @@ ________
 
 <p align="center">
 
-  <a href=https://www.linkedin.com/in/ivan-komar-313960237>
+  <a href=https://github.com/Ivan-Corporation/Kamulet_Roguelike>
   <img src="https://skillicons.dev/icons?i=rust" />
 ⇱
 </a>
-  <a href=https://stackoverflow.com/users/14512234/komarcorporation >
+  <a href=https://github.com/Ivan-Corporation/KomaQuiz-AndroidGame>
   <img src="https://skillicons.dev/icons?i=java" />
 ⇱
 </a>
-  <a href=https://gitlab.com/Ivan-Corporation>
+  <a href=https://github.com/Ivan-Corporation/ReactPython_BookApp>
 <img src="https://skillicons.dev/icons?i=py" />
 ⇱
 </a> 
