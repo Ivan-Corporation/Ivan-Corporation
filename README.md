@@ -46,7 +46,7 @@
 ________
 <br><br>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents" />
   </a>
   <br>
 
