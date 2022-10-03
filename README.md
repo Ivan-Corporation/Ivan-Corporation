@@ -76,7 +76,7 @@ ________
 <img src="https://skillicons.dev/icons?i=py" />
 ⇱
 </a> 
-  <a href=https://twitter.com/CorporationKoma>
+  <a href=https://github.com/Ivan-Corporation/Water-Bottle-LED-Arduino>
 <img src="https://skillicons.dev/icons?i=arduino" />
 ⇱
 </a> 
