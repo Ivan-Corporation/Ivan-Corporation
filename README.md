@@ -95,7 +95,19 @@ ________
   
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
+  
+  <br/>
+  
+  <img alt="Koma's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanCorporation&theme=dark"/>
+
+  <br/>
+  
+  <img src="https://wakatime.com/share/@04f76f82-7f6e-48d5-ba23-4e1f8de5addd/00f5c507-6cd7-428d-b00d-6c0ea87d081c.svg" height="400"/>
+  
   </div>
+  
+  
+  
 
 <br/>
 
