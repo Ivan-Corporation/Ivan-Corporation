@@ -96,14 +96,14 @@ ________
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
   
-  <br/>
+<!--   <br/>
   
   <img alt="Koma's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanCorporation&theme=dark"/>
 
   <br/>
   
   <img src="https://wakatime.com/share/@IvanCorporation/8fabba01-3886-4f37-babd-b19c99a38476.svg" height="400"/>
-  
+   -->
   </div>
   
   
