@@ -97,7 +97,7 @@ ________
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
   
   <br/>
-  <img src="https://wakatime.com/share/@IvanCorporation/d23f553e-5fcd-48dd-b3d0-125fc4880bdf.svg" height="400"/>
+  <img src="https://wakatime.com/share/@IvanCorporation/a5527653-eaca-42dc-adee-5be9b650f8e8.svg" height="400"/>
   
 <!--   <br/>
   
