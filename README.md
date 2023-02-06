@@ -95,16 +95,16 @@ ________
   
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
- <!--  
+
   <br/>
-  <img alt="Koma's wakatime stats" src="https://wakatime.com/share/@IvanCorporation/a5527653-eaca-42dc-adee-5be9b650f8e8.svg" height="400" width="600"/>
+  <img alt="Koma's wakatime stats" src="https://wakatime.com/share/@IvanCorporation/db8c2fa3-b9b3-4c16-9768-ff885149b4d3.svg" height="400" width="600"/>
   
-  <br/>
+<!--   <br/>
   
   
   
   <img src="https://wakatime.com/share/@IvanCorporation/8fabba01-3886-4f37-babd-b19c99a38476.svg" height="400"/>
-   -->
+  -->
   </div>
   
   
