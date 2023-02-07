@@ -46,7 +46,7 @@
 ________
 <br><br>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,mui,bootstrap,vue,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,mui,tailwind,bootstrap,vue,nuxtjs" />
   </a>
   <br>
 
