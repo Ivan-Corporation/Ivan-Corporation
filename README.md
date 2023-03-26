@@ -11,10 +11,7 @@
 
 
 
-  <a href=https://www.linkedin.com/in/ivan-komarchev-313960237>
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-⇱
-</a>
+
   <a href=https://stackoverflow.com/users/14512234/komarcorporation >
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 ⇱
