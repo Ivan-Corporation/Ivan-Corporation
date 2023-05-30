@@ -24,6 +24,10 @@
 <img src="https://skillicons.dev/icons?i=twitter" />
 ⇱
 </a> 
+    <a href=https://www.linkedin.com/in/komahuman>
+<img src="https://skillicons.dev/icons?i=linkedin" />
+⇱
+</a> 
 </p>
 
 <hr>
@@ -43,7 +47,7 @@
 ________
 <br><br>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,mui,tailwind,bootstrap,vue,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,styledcomponents,mui,tailwind,bootstrap,vue,nuxtjs,git" />
   </a>
   <br>
 
