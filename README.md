@@ -114,7 +114,7 @@ ________
 <br/>
 
 <p align="center">
-  <img height="300" width="300" src="./2023waka.png"/>
+  <img   src="./2023waka.png"/>
 </p>
 
 
