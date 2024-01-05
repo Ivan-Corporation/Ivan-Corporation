@@ -113,6 +113,9 @@ ________
 
 <br/>
 
+<p align="center">
+  <img height="300" width="300" src="./2023waka.png"/>
+</p>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Ivan-Corporation" alt="Ivan-Corporation"/><br/>
