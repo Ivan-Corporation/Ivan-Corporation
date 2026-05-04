@@ -99,7 +99,6 @@ ________
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan-Corporation&theme=radical&hide_border=true"/>
 <br/>
   <br/>
-  <img alt="Koma's wakatime stats" src="https://wakatime.com/share/@IvanCorporation/db8c2fa3-b9b3-4c16-9768-ff885149b4d3.svg" height="400" width="600"/>
   
 <!--   <br/>
   
@@ -118,6 +117,9 @@ ________
 </p>
 <p align="center">
   <img   src="./2024waka.png"/>
+</p>
+<p align="center">
+  <img   src="./2025waka.jpg"/>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Ivan-Corporation" alt="Ivan-Corporation"/><br/>
